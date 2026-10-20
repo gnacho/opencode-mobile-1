@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.6.1](https://github.com/beppe2880/opencode-mobile/compare/v0.6.0...v0.6.1) (2026-10-20)
+
+
+### Bug fixes
+
+* **data:** Make the sample data mode start and cover every screen ([#36](https://github.com/beppe2880/opencode-mobile/issues/36)) ([f18baa6](https://github.com/beppe2880/opencode-mobile/commit/f18baa6b7889406118da44a699a127f845bbd926))
+
+
+### Documentation
+
+* Add demo GIFs to the README ([#37](https://github.com/beppe2880/opencode-mobile/issues/37)) ([8ae46f7](https://github.com/beppe2880/opencode-mobile/commit/8ae46f77ae2d4db30b58fa9f117d1b7abde8215c))
+
 ## [0.6.0](https://github.com/beppe2880/opencode-mobile/compare/v0.5.0...v0.6.0) (2026-10-18)
 
 
